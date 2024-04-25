@@ -42,7 +42,7 @@ const UserMenu: React.FC<UserMenuProps> = ({
 						cursor-pointer
 					"
 				>
-					Airbnb your home
+					List your room
 
 				</div>
 				<div
