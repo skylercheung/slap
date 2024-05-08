@@ -13,7 +13,7 @@ import {
 import useRegisterModal from '@/app/hooks/useRegisterModal';
 import Modal from './Modal';
 import Heading from '../Heading';
-import Input from '../Inputs/Inputs'
+import Input from '../inputs/Inputs'
 import toast from 'react-hot-toast';
 import Button from '../Button';
 import { signIn } from 'next-auth/react';

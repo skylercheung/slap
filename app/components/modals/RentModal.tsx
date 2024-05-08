@@ -15,11 +15,11 @@ import useRentModal from '@/app/hooks/useRentModal';
 
 import Modal from "./Modal";
 import Counter from "../inputs/Counter";
-import CategoryInput from '../Inputs/CategoryInput';
+import CategoryInput from '../inputs/CategoryInput';
 import CountrySelect from "../inputs/CountrySelect";
 import { categories } from '../navbar/Categories';
-import ImageUpload from '../Inputs/ImageUpload';
-import Input from '../Inputs/Inputs';
+import ImageUpload from '../inputs/ImageUpload';
+import Input from '../inputs/Inputs';
 import Heading from '../Heading';
 
 enum STEPS {
