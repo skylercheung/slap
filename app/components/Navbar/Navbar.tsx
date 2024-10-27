@@ -1,11 +1,11 @@
 'use client'; 
 
 import Container from "../Container";
-import Logo from "./Logo";
-import Search from "./Search";
-import UserMenu from "./UserMenu";
+import Logo from "../Navbar/Logo";
+import Search from "../Navbar/Search";
+import UserMenu from "../Navbar/UserMenu";
 import { SafeUser } from "@/app/types";
-import Categories from "./Categories";
+import Categories from "../Navbar/Categories";
 
 interface NavbarProps {
 	currentUser?: SafeUser | null;
